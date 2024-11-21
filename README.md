@@ -11,8 +11,17 @@ I'm Antony and live in Germany.
 ###
 
 <div align="center">
+  <span>
+ <a href="https://www.twitch.tv/skyking_px" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+ </a>
+</span>
+  <span>
+ <a href="https://discordapp.com/users/900313715583373312" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+ </a>
+</span>
+  
 </div>
 
 ###
