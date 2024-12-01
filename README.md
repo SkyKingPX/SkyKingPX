@@ -2,8 +2,8 @@
 
 I'm Antony and live in Germany.
 
-- 🔭 I’m currently working on Minecraft Plugins, Stellarity Datapack, Unreal Engine Games, Satisfactory Mods and other things
-- 🌱 I’m currently learning Java and making Games with Unreal Engine 5
+- 🔭 I’m currently working on Minecraft Plugins, the Stellarity Datapack, Unreal Engine Games, Satisfactory Mods, [MCSManager](https://mcsmanager.com/) and other things
+- 🌱 I’m currently learning Java, TypeScript and Vue and making Games with Unreal Engine 5
 - 📫 How to reach me: Discord Username: SkyKing_PX
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm 14 years old!
