@@ -2,7 +2,7 @@
 
 I'm Antony and live in Germany.
 
-- 🔭 I’m currently working on Minecraft Plugins, the Stellarity Datapack, Unreal Engine Games, Satisfactory Mods, [MCSManager](https://mcsmanager.com/) and other things
+- 🔭 I’m currently working on Minecraft Plugins, the Stellarity Datapack, Unreal Engine Games, [MCSManager](https://mcsmanager.com/) and other things
 - 🌱 I’m currently learning Java, TypeScript and Vue and making Games with Unreal Engine 5
 - 📫 How to reach me: Discord Username: SkyKing_PX
 - 😄 Pronouns: He/Him
@@ -17,7 +17,7 @@ I'm Antony and live in Germany.
  </a>
 </span>
   <span>
- <a href="https://discordapp.com/users/900313715583373312" target="_blank">
+ <a href="https://bit.ly/sk_px-dc" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
  </a>
 </span>
