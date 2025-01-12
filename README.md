@@ -6,7 +6,6 @@ I'm Antony and live in Germany.
 - 🌱 I’m currently learning Java, TypeScript and Vue and making Games with Unreal Engine 5
 - 📫 How to reach me: Discord Username: SkyKing_PX
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 14 years old!
 
 ###
 
