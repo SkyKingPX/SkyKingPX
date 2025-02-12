@@ -17,7 +17,7 @@ I'm Antony and live in Germany.
 </span>
 <span>
  <a href="https://m.youtube.com/channel/UCLPrrz6OjxB6CmOrYQ0MNnQ" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FB0505&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
  </a>
 </span>
 
