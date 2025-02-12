@@ -15,6 +15,12 @@ I'm Antony and live in Germany.
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
  </a>
 </span>
+<span>
+ <a href="https://m.youtube.com/channel/UCLPrrz6OjxB6CmOrYQ0MNnQ" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+ </a>
+</span>
+
   <span>
  <a href="https://bit.ly/sk_px-dc" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -26,12 +32,6 @@ I'm Antony and live in Germany.
 ###
 
 <h3 align="left"> My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SkyKingPX&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
