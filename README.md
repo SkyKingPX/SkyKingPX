@@ -42,3 +42,54 @@ I'm Antony and live in Germany.
 </div>
 
 ###
+
+<h2 align="left"> KineticHosting</h2>
+Ever wanted a cheap good Server for Games and more?
+KineticHosting is a Server Hosting Provider for not only Minecraft Servers but also for a bunch of other Servers like Palworld, Terraria, Satisfactory, even Discord Bots and more.
+
+### Features  
+* Many Server Locations
+* **Fully** customizable Servers
+* 3 Server Packages (Budget < Performance < Impact)
+* First Time Server Setup 
+* By far the **cheapest**
+* **Easy** Server Setups
+* **Automatic** Backups
+* Player Manager
+* Server Splits (Split the hardware into **multiple Servers**)
+* Custom Subdomain/IP
+* Easy Port forwarding
+* **Configurable** Schedules (Restarts, Backups and even ingame Commands)
+* SFTP Access
+* **Fast Support**
+
+### Pricing 
+As previously mentioned, their Servers are very cheap. A couple examples:
+**6GB - Minecraft Performance - Germany:**
+* CPU: AMD Ryzen 9 7950X
+* 6GB DDR4 RAM
+* And more
+Price: **$16.99 Monthly**
+
+**4GB - Minecraft Budget - England:**
+* CPU: Intel Xeon E-2288G
+* 4GB DDR4 RAM
+* And more
+Price: **$4.99 Monthly**
+
+**12GB - Minecraft Impact - San Francisco:**
+* CPU: AMD Ryzen 9 9950X
+* 12GB DDR**5** RAM
+* And more
+Price: **$46.99 Monthly**
+
+> Server specifications may vary depending on the chosen region
+
+### Server Setup 
+The Kinetic Panel has a Plugin, Version, Mod and Modpack installer included.
+All of my Modpacks are available for quick access in the Modpack installer!
+
+I fully recommended using KineticHosting because I have experience with other server hosting websites and also self-hosting. With KineticHosting it‘s just so much easier to make and run a server. 
+
+### Save money!  
+You can even use the Code "**SkyKing_PX25**" at checkout to save an additional **25%** on **any** Server at KineticHosting when using [**this link**](<https://billing.kinetichosting.net/aff.php?aff=947>)!
