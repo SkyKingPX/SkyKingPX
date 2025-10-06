@@ -6,7 +6,7 @@ I'm Sky and live in Germany.
 - 🌱 Currently learning Java, TypeScript and Vue and making Games with Unreal Engine 5
 - 📫 How to reach me: Discord Username: SkyKing_PX
 - 😄 Pronouns: He/Him
-- 💡 Junior Developer at [Soncresity Industries](https://github.com/Soncresity-Industries)
+- 💡 Lead Developer at [Soncresity Industries](https://github.com/Soncresity-Industries)
 
 ###
 
@@ -64,26 +64,11 @@ KineticHosting is a Server Hosting Provider for not only Minecraft Servers but a
 * **Fast Support**
 
 ### Pricing 
-As previously mentioned, their Servers are very cheap. A couple examples:
-**6GB - Minecraft Performance - Germany:**
-* CPU: AMD Ryzen 9 7950X
-* 6GB DDR4 RAM
-* And more
-Price: **$16.99 Monthly**
-
-**4GB - Minecraft Budget - England:**
-* CPU: Intel Xeon E-2288G
-* 4GB DDR4 RAM
-* And more
-Price: **$4.99 Monthly**
-
-**12GB - Minecraft Impact - San Francisco:**
-* CPU: AMD Ryzen 9 9950X
-* 12GB DDR**5** RAM
-* And more
-Price: **$46.99 Monthly**
+[![Pricing](https://i.ibb.co/ymcSg1tx/KH-Curse-Forge-Final-Standard-Banner-Small.png)](https://billing.kinetichosting.com/aff.php?aff=947)
 
 > Server specifications may vary depending on the chosen region
+>
+> Server Specifications can be chosen individually
 
 ### Server Setup 
 The Kinetic Panel has a Plugin, Version, Mod and Modpack installer included.
@@ -92,4 +77,4 @@ All of my Modpacks are available for quick access in the Modpack installer!
 I fully recommended using KineticHosting because I have experience with other server hosting websites and also self-hosting. With KineticHosting it‘s just so much easier to make and run a server. 
 
 ### Save money!  
-You can even use the Code "**SkyKing_PX25**" at checkout to save an additional **25%** on **any** Server at KineticHosting when using [**this link**](<https://billing.kinetichosting.net/aff.php?aff=947>)!
+You can even use the Code "**SkyKing_PX25**" at checkout to save an additional **25%** on **any** Server at KineticHosting when using [**this link**](https://billing.kinetichosting.com/aff.php?aff=947)!
