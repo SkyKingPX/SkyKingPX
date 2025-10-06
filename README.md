@@ -66,7 +66,7 @@ KineticHosting is a Server Hosting Provider for not only Minecraft Servers but a
 ### Pricing 
 [![Pricing](https://i.ibb.co/ymcSg1tx/KH-Curse-Forge-Final-Standard-Banner-Small.png)](https://billing.kinetichosting.com/aff.php?aff=947)
 
-> Server specifications may vary depending on the chosen region
+> Server Specifications may vary depending on the chosen region
 >
 > Server Specifications can be chosen individually
 
