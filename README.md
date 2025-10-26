@@ -56,6 +56,10 @@ KineticHosting is a Server Hosting Provider for not only Minecraft Servers but a
 * **Easy** Server Setups
 * **Automatic** Backups
 * Player Manager
+* Mod/Plugin/Modpack/World Installer
+* Version Installer
+* Storage Manager
+* Network Test
 * Server Splits (Split the hardware into **multiple Servers**)
 * Custom Subdomain/IP
 * Easy Port forwarding
@@ -76,5 +80,5 @@ All of my Modpacks are available for quick access in the Modpack installer!
 
 I fully recommended using KineticHosting because I have experience with other server hosting websites and also self-hosting. With KineticHosting it‘s just so much easier to make and run a server. 
 
-### Save money!  
-You can even use the Code "**SkyKing_PX25**" at checkout to save an additional **25%** on **any** Server at KineticHosting when using [**this link**](https://billing.kinetichosting.com/aff.php?aff=947)!
+### Have you decided? 
+[**< - Create your server - >**](https://billing.kinetichosting.com/aff.php?aff=947)
