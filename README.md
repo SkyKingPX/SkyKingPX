@@ -2,8 +2,8 @@
 
 I'm Sky and live in Germany.
 
-- 🔭 I’m currently working on Minecraft Plugins/Mods, the Stellarity Datapack, Unreal Engine Games, [MCSManager](https://mcsmanager.com/) and other things
-- 🌱 Currently learning Java, TypeScript and Vue and making Games with Unreal Engine 5
+- 🔭 I’m currently working on Minecraft Plugins/Mods, Unreal Engine Games, [MCSManager](https://mcsmanager.com/) and other things
+- 🌱 Currently learning Java & TypeScript and making Games with Unreal Engine 5
 - 📫 How to reach me: Discord Username: SkyKing_PX
 - 😄 Pronouns: He/Him
 - 💡 Lead Developer at [Soncresity Industries](https://github.com/Soncresity-Industries)
@@ -37,8 +37,8 @@ I'm Sky and live in Germany.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyKingPX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyKingPX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/stats?username=SkyKingPX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyKingPX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
